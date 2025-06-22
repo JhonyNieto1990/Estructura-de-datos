@@ -1,0 +1,15 @@
+C:\Users\GABY1990\Documents\PROYECTOS\prueba1\AgendaTurnos\bin\Debug\net9.0\AgendaTurnos.exe
+C:\Users\GABY1990\Documents\PROYECTOS\prueba1\AgendaTurnos\bin\Debug\net9.0\AgendaTurnos.deps.json
+C:\Users\GABY1990\Documents\PROYECTOS\prueba1\AgendaTurnos\bin\Debug\net9.0\AgendaTurnos.runtimeconfig.json
+C:\Users\GABY1990\Documents\PROYECTOS\prueba1\AgendaTurnos\bin\Debug\net9.0\AgendaTurnos.dll
+C:\Users\GABY1990\Documents\PROYECTOS\prueba1\AgendaTurnos\bin\Debug\net9.0\AgendaTurnos.pdb
+C:\Users\GABY1990\Documents\PROYECTOS\prueba1\AgendaTurnos\obj\Debug\net9.0\AgendaTurnos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GABY1990\Documents\PROYECTOS\prueba1\AgendaTurnos\obj\Debug\net9.0\AgendaTurnos.AssemblyInfoInputs.cache
+C:\Users\GABY1990\Documents\PROYECTOS\prueba1\AgendaTurnos\obj\Debug\net9.0\AgendaTurnos.AssemblyInfo.cs
+C:\Users\GABY1990\Documents\PROYECTOS\prueba1\AgendaTurnos\obj\Debug\net9.0\AgendaTurnos.csproj.CoreCompileInputs.cache
+C:\Users\GABY1990\Documents\PROYECTOS\prueba1\AgendaTurnos\obj\Debug\net9.0\AgendaTurnos.sourcelink.json
+C:\Users\GABY1990\Documents\PROYECTOS\prueba1\AgendaTurnos\obj\Debug\net9.0\AgendaTurnos.dll
+C:\Users\GABY1990\Documents\PROYECTOS\prueba1\AgendaTurnos\obj\Debug\net9.0\refint\AgendaTurnos.dll
+C:\Users\GABY1990\Documents\PROYECTOS\prueba1\AgendaTurnos\obj\Debug\net9.0\AgendaTurnos.pdb
+C:\Users\GABY1990\Documents\PROYECTOS\prueba1\AgendaTurnos\obj\Debug\net9.0\AgendaTurnos.genruntimeconfig.cache
+C:\Users\GABY1990\Documents\PROYECTOS\prueba1\AgendaTurnos\obj\Debug\net9.0\ref\AgendaTurnos.dll
