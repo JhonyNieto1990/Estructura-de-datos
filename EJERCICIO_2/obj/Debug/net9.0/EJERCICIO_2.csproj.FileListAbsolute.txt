@@ -1,0 +1,14 @@
+C:\Users\GABY1990\Documents\PROYECTOS\SEMANA_5\EJERCICIO_2\bin\Debug\net9.0\EJERCICIO_2.exe
+C:\Users\GABY1990\Documents\PROYECTOS\SEMANA_5\EJERCICIO_2\bin\Debug\net9.0\EJERCICIO_2.deps.json
+C:\Users\GABY1990\Documents\PROYECTOS\SEMANA_5\EJERCICIO_2\bin\Debug\net9.0\EJERCICIO_2.runtimeconfig.json
+C:\Users\GABY1990\Documents\PROYECTOS\SEMANA_5\EJERCICIO_2\bin\Debug\net9.0\EJERCICIO_2.dll
+C:\Users\GABY1990\Documents\PROYECTOS\SEMANA_5\EJERCICIO_2\bin\Debug\net9.0\EJERCICIO_2.pdb
+C:\Users\GABY1990\Documents\PROYECTOS\SEMANA_5\EJERCICIO_2\obj\Debug\net9.0\EJERCICIO_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GABY1990\Documents\PROYECTOS\SEMANA_5\EJERCICIO_2\obj\Debug\net9.0\EJERCICIO_2.AssemblyInfoInputs.cache
+C:\Users\GABY1990\Documents\PROYECTOS\SEMANA_5\EJERCICIO_2\obj\Debug\net9.0\EJERCICIO_2.AssemblyInfo.cs
+C:\Users\GABY1990\Documents\PROYECTOS\SEMANA_5\EJERCICIO_2\obj\Debug\net9.0\EJERCICIO_2.csproj.CoreCompileInputs.cache
+C:\Users\GABY1990\Documents\PROYECTOS\SEMANA_5\EJERCICIO_2\obj\Debug\net9.0\EJERCICIO_2.dll
+C:\Users\GABY1990\Documents\PROYECTOS\SEMANA_5\EJERCICIO_2\obj\Debug\net9.0\refint\EJERCICIO_2.dll
+C:\Users\GABY1990\Documents\PROYECTOS\SEMANA_5\EJERCICIO_2\obj\Debug\net9.0\EJERCICIO_2.pdb
+C:\Users\GABY1990\Documents\PROYECTOS\SEMANA_5\EJERCICIO_2\obj\Debug\net9.0\EJERCICIO_2.genruntimeconfig.cache
+C:\Users\GABY1990\Documents\PROYECTOS\SEMANA_5\EJERCICIO_2\obj\Debug\net9.0\ref\EJERCICIO_2.dll
