@@ -1,0 +1,14 @@
+C:\Users\GABY1990\Documents\PROYECTOS\semana_6\bin\Debug\net9.0\SEMANA_6.exe
+C:\Users\GABY1990\Documents\PROYECTOS\semana_6\bin\Debug\net9.0\SEMANA_6.deps.json
+C:\Users\GABY1990\Documents\PROYECTOS\semana_6\bin\Debug\net9.0\SEMANA_6.runtimeconfig.json
+C:\Users\GABY1990\Documents\PROYECTOS\semana_6\bin\Debug\net9.0\SEMANA_6.dll
+C:\Users\GABY1990\Documents\PROYECTOS\semana_6\bin\Debug\net9.0\SEMANA_6.pdb
+C:\Users\GABY1990\Documents\PROYECTOS\semana_6\obj\Debug\net9.0\SEMANA_6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GABY1990\Documents\PROYECTOS\semana_6\obj\Debug\net9.0\SEMANA_6.AssemblyInfoInputs.cache
+C:\Users\GABY1990\Documents\PROYECTOS\semana_6\obj\Debug\net9.0\SEMANA_6.AssemblyInfo.cs
+C:\Users\GABY1990\Documents\PROYECTOS\semana_6\obj\Debug\net9.0\SEMANA_6.csproj.CoreCompileInputs.cache
+C:\Users\GABY1990\Documents\PROYECTOS\semana_6\obj\Debug\net9.0\SEMANA_6.dll
+C:\Users\GABY1990\Documents\PROYECTOS\semana_6\obj\Debug\net9.0\refint\SEMANA_6.dll
+C:\Users\GABY1990\Documents\PROYECTOS\semana_6\obj\Debug\net9.0\SEMANA_6.pdb
+C:\Users\GABY1990\Documents\PROYECTOS\semana_6\obj\Debug\net9.0\SEMANA_6.genruntimeconfig.cache
+C:\Users\GABY1990\Documents\PROYECTOS\semana_6\obj\Debug\net9.0\ref\SEMANA_6.dll
