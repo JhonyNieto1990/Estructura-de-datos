@@ -1,0 +1,14 @@
+C:\Users\GABY1990\Documents\PROYECTOS\SEMANA_7_2\bin\Debug\net9.0\SEMANA_7_2.exe
+C:\Users\GABY1990\Documents\PROYECTOS\SEMANA_7_2\bin\Debug\net9.0\SEMANA_7_2.deps.json
+C:\Users\GABY1990\Documents\PROYECTOS\SEMANA_7_2\bin\Debug\net9.0\SEMANA_7_2.runtimeconfig.json
+C:\Users\GABY1990\Documents\PROYECTOS\SEMANA_7_2\bin\Debug\net9.0\SEMANA_7_2.dll
+C:\Users\GABY1990\Documents\PROYECTOS\SEMANA_7_2\bin\Debug\net9.0\SEMANA_7_2.pdb
+C:\Users\GABY1990\Documents\PROYECTOS\SEMANA_7_2\obj\Debug\net9.0\SEMANA_7_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GABY1990\Documents\PROYECTOS\SEMANA_7_2\obj\Debug\net9.0\SEMANA_7_2.AssemblyInfoInputs.cache
+C:\Users\GABY1990\Documents\PROYECTOS\SEMANA_7_2\obj\Debug\net9.0\SEMANA_7_2.AssemblyInfo.cs
+C:\Users\GABY1990\Documents\PROYECTOS\SEMANA_7_2\obj\Debug\net9.0\SEMANA_7_2.csproj.CoreCompileInputs.cache
+C:\Users\GABY1990\Documents\PROYECTOS\SEMANA_7_2\obj\Debug\net9.0\SEMANA_7_2.dll
+C:\Users\GABY1990\Documents\PROYECTOS\SEMANA_7_2\obj\Debug\net9.0\refint\SEMANA_7_2.dll
+C:\Users\GABY1990\Documents\PROYECTOS\SEMANA_7_2\obj\Debug\net9.0\SEMANA_7_2.pdb
+C:\Users\GABY1990\Documents\PROYECTOS\SEMANA_7_2\obj\Debug\net9.0\SEMANA_7_2.genruntimeconfig.cache
+C:\Users\GABY1990\Documents\PROYECTOS\SEMANA_7_2\obj\Debug\net9.0\ref\SEMANA_7_2.dll
